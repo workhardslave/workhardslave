@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Interest 🎃💥
 - Server/Backend (Java/Spring Framework, PHP)
-- CS Fundamental
+- CS Fundamental (Data Structure/Algorithm, OS, Network etc...)
 - Frontend (HTML/CSS/JavaScript)
 - Android (Kotlin)
 - Cloud Computing(AWS)
