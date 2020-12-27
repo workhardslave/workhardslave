@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/-Java-1E1E20?&logo=Java&logoColor=F9971A)](https://github.com/workhardslave?tab=repositories&q=&type=&language=java)
 [![C++](https://img.shields.io/badge/-C%2B%2B-1E1E20?&logo=C%2B%2B&logoColor=0067A3)](https://github.com/workhardslave?tab=repositories&q=&type=&language=c%2B%2B)
 [![php](https://img.shields.io/badge/-php-1E1E20?&logo=Php&logoColor=A175DB)](https://github.com/workhardslave?tab=repositories&q=&type=&language=php)
-![HTML5](https://img.shields.io/badge/-HTML5-1E1E20?&logo=HTML5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-1E1E20?&logo=CSS3&logoColor=1572B6)
+[![HTML](https://img.shields.io/badge/-HTML5-1E1E20?&logo=HTML5&logoColor=E34F26)](https://github.com/workhardslave?tab=repositories&q=&type=&language=html)
+[![CSS](https://img.shields.io/badge/-CSS3-1E1E20?&logo=CSS3&logoColor=1572B6)](https://github.com/workhardslave?tab=repositories&q=&type=&language=css)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-1E1E20?&logo=JavaScript&logoColor=FDDC00)](https://github.com/workhardslave?tab=repositories&q=&type=&language=javascript)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-1E1E20?&logo=Kotlin&logoColor=FA8128)](https://github.com/workhardslave?tab=repositories&q=&type=&language=kotlin)
 </br>
