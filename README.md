@@ -25,36 +25,3 @@ Here are some ideas to get you started:
     I wanna be an <b>awesome developer</b> who can give <b>positive vibes</b> 😎 <br>
   </em>  
 </p>
-
-
-### Interest 🎃💥
-- Server/Backend
-- CS Fundamental
-- DevOps/Infra
-- Frontend
-- Android
-
-
-### Tech Stack 🤓👍
-![Java](https://img.shields.io/badge/-Java-1E1E20?&logo=Java&logoColor=F9971A)
-![C++](https://img.shields.io/badge/-C%2B%2B-1E1E20?&logo=C%2B%2B&logoColor=0067A3)
-![php](https://img.shields.io/badge/-php-1E1E20?&logo=Php&logoColor=A175DB)
-![HTML](https://img.shields.io/badge/-HTML5-1E1E20?&logo=HTML5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS3-1E1E20?&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1E1E20?&logo=JavaScript&logoColor=FDDC00)
-![Kotlin](https://img.shields.io/badge/-Kotlin-1E1E20?&logo=Kotlin&logoColor=FA8128)
-</br>
-
-![Spring Boot](https://img.shields.io/badge/-Spring-1E1E20?&logo=Spring&logoColor=6DB33F)
-![MySQL](https://img.shields.io/badge/-MySQL-1E1E20?&logo=MySQL&logoColor=1572B6)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1E1E20?&logo=MariaDB&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/-jQuery-1E1E20?&logo=jQuery&logoColor=0769AD)
-![AWS](https://img.shields.io/badge/-AWS-1E1E20?&logo=Amazon-AWS&logoColor=FFA500)
-![Firebase](https://img.shields.io/badge/-Firebase-1E1E20?&logo=Firebase&logoColor=FFB400)
-</br>
-
-![git](https://img.shields.io/badge/-git-1E1E20?&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-1E1E20?&logo=GitHub&logoColor=ffffff)
-![Slack](https://img.shields.io/badge/-Slack-1E1E20?&logo=Slack&logoColor=6A287E)
-![Notion](https://img.shields.io/badge/-Notion-1E1E20?&logo=Notion&logoColor=ffffff)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-1E1E20?logo=Adobe-Photoshop&logoColor=31A8FF)
