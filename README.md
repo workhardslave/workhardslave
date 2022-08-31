@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    I am <b>SEUNGHWAN</b> a.k.a <b>@workhardslave</b> 🙏 <br> 
-    I am a <b>university student</b> who is currently studying <b>Computer Science!</b> 👨‍💻 <br>
-    I wanna be an <b>awesome developer</b> who can give <b>positive vibes</b> 😎 <br>
+    I'm <b>SEUNGHWAN</b> a.k.a <b>@workhardslave</b> 🙏 <br>
+    Welcome to my Github 🤓 <br>
   </em>  
 </p>
