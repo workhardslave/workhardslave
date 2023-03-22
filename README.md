@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Carpe Diem, Seize the day&nbsp; [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://transferhwang.tistory.com/)](https://transferhwang.tistory.com/) 
+## Carpe Diem, Seize the day&nbsp;
 
 
 ### Who am I 🤔⁉&nbsp;
